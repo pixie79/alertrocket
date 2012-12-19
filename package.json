@@ -1,0 +1,23 @@
+{
+  "name": "alertrocket.js",
+  "version": "0.0.1",
+  "description": "alertrocket alert message api interface",
+  "main": "alertrocket.js",
+  "scripts": {
+    "test": "./alertrocket.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixie79/alertrocket.git"
+  },
+  "keywords": [
+    "sensu",
+    "alertrocket"
+  ],
+  "author": "Mark Olliver",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "node-getopt": "~0.2.1"
+  }
+}
